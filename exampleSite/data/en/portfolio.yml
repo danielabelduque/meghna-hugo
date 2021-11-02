@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Nuestros productos
   portfolio_item:
+  - name: Termo pajarero
+    image: "/images/termo.jpg"
+    image_webp: ''
+    categories:
+    - Termo
+    content: Pregunta sobre este termo en nuestro WhatsApp
+    link: https://api.whatsapp.com/send?phone=573127636065
   - name: Set de cubiertos en bambú y pocillo personalizado
     image: "/images/pocillo.jpg"
     image_webp: ''
