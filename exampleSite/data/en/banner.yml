@@ -5,7 +5,7 @@ banner:
   bg_image: "/images/pic.jpg"
   icon: ''
   title: Daniela Belduque
-  content: 'Amante de las aves y Licenciada en Español y Literatura '
+  content: Licenciada amante de las aves
   button:
     enable: true
     label: Conóceme
