@@ -1,8 +1,8 @@
 ---
 - id: blogTitle
-  translation: Últimos Posts
+  translation: Ultimos Posts
 - id: readMore
-  translation: Leer más
+  translation: Leer mas
 - id: viewAllPost
   translation: Ver todos los Posts
 - id: share
