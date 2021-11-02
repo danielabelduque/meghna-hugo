@@ -7,7 +7,7 @@ portfolio:
     image: "/images/shirt.jpg"
     image_webp: ''
     categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Pregunta sobre este diseño en nuestro WhatsApp
     link: https://api.whatsapp.com/send?phone=573127636065
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
