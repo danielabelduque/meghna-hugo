@@ -13,7 +13,8 @@ portfolio:
   - name: Camisetas
     image: "/images/shirt.jpg"
     image_webp: ''
-    categories: []
+    categories:
+    - Camisetas
     content: Pregunta sobre este diseño en nuestro WhatsApp
     link: https://api.whatsapp.com/send?phone=573127636065
   - name: Aretes
