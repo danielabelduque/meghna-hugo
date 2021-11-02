@@ -4,7 +4,7 @@ service:
   title: Nuestros servicios
   service_item:
   - name: Avistamiento de aves
-    icon: ti-dove
+    icon: ''
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Siembra de árboles
@@ -12,7 +12,7 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Educación ambiental
-    icon: ti-book
+    icon: ''
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Apps Development
