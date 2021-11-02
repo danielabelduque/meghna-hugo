@@ -7,8 +7,8 @@ service:
     icon: ti-dove
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Responsive Design
-    icon: ti-layout
+  - name: Siembra de árboles
+    icon: ti-leaf
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Media &amp; Advertisement
