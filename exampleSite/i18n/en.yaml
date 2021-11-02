@@ -1,8 +1,8 @@
 ---
 - id: blogTitle
-  translation: Ãšltimos Posts
+  translation: Últimos Posts
 - id: readMore
-  translation: Leer mÃ¡s
+  translation: Leer más
 - id: viewAllPost
   translation: Ver todos los Posts
 - id: share
@@ -27,5 +27,3 @@
   translation: Blog
 - id: contact
   translation: Contacto
-- id: themefisher
-  translation: Themefisher
