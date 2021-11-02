@@ -11,12 +11,8 @@ service:
     icon: ti-leaf
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Graphic Design
-    icon: ti-palette
+  - name: Educación ambiental
+    icon: ti-book
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Apps Development
