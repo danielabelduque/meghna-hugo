@@ -13,4 +13,4 @@ pricing:
     - Registro fotográfico
     button:
       label: Pregunta más
-      link: "#contact"
+      link: https://api.whatsapp.com/send?phone=573127636065
