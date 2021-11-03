@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: Acerca de mi
+  title: Soy
   about_item:
   - icon: ti-ruler-pencil
     title: Licenciada en Español y Literatura
