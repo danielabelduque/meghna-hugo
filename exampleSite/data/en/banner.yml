@@ -10,6 +10,6 @@ banner:
 
     Profe amante de las aves
   button:
-    enable: true
+    enable: false
     label: Conóceme
     link: "#about"
