@@ -5,7 +5,10 @@ banner:
   bg_image: "/images/dscn7638.JPG"
   icon: ''
   title: Daniela Belduque
-  content: Profe amante de las aves
+  content: |2-
+
+
+    Profe amante de las aves
   button:
     enable: true
     label: Conóceme
