@@ -1,6 +1,6 @@
 baseURL = "https://danielabelduque.netlify.app/"
 disableLanguages = ["fr"]
-disqusShortname = ""
+disqusShortname = "Daniela Belduque"
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
