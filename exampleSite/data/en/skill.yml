@@ -1,20 +1,12 @@
 ---
 skill:
   enable: true
-  title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image: images/about/company-growth.webp
-  skill_item:
-  - name: Especies
-    percent: 90%
-  - name: Analysis
-    percent: 70%
-  - name: Design
-    percent: 80%
-  - name: IOS Development
-    percent: 95%
-  - name: Android Development
-    percent: 75%
+  title: Aves del Quindío
+  subtitle: ''
+  content: Según el plan de acción de la CRQ 2012-2015, se tuvo en cuenta la Lista
+    de chequeo de avifauna del Quindío (Arbeláez et al., 2010) que recoge información
+    de 110 localidades, cuenta con 546 especies de 59 familias de aves registradas
+    y confirmadas, lo cual representa un 29.19 % del total de especies de aves presentes
+    en Colombia
+  image: "/images/ave.jpg"
+  skill_item: []

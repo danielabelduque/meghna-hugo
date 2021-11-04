@@ -14,14 +14,14 @@ portfolio:
     image: "/images/termo.jpg"
     image_webp: ''
     categories:
-    - Termo
+    - Termos
     content: Pregunta sobre este termo en nuestro WhatsApp
     link: https://api.whatsapp.com/send?phone=573127636065
   - name: Set de cubiertos en bambú y pocillo personalizado
     image: "/images/pocillo.jpg"
     image_webp: ''
     categories:
-    - Pocillo
+    - Pocillos
     content: Pregunta sobre este producto en nuestro WhatsApp
     link: https://api.whatsapp.com/send?phone=573127636065
   - name: Camisetas
