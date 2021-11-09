@@ -2,14 +2,13 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: "/images/dscn7638.JPG"
+  bg_image: "/images/dscn0176-2.jpg"
   icon: ''
   title: Daniela Belduque
-  content: |2-
-
-
-    Profe amante de las aves
+  content: "Licenciada en español y literatura\nAmante de las aves y la biodiversidad\nAquí
+    solo un poco de lo que soy o intento ser\nMis fotos / Mis escritos /Mi emprendimiento
+    / Mis recomendaciones "
   button:
-    enable: false
-    label: Conóceme
+    enable: true
+    label: 'Un poco de mí '
     link: "#about"
