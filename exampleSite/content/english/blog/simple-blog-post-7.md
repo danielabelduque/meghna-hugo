@@ -1,8 +1,8 @@
 ---
 title: Ejemplo
 date: 2018-09-12T12:52:36.000+06:00
-image_webp: ''
-image: ''
+image_webp: "/images/dscn7951.JPG"
+image: "/images/dscn0176-2.jpg"
 author: Daniela Belduque
 description: This is meta description
 
